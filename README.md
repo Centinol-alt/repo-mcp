@@ -1,6 +1,6 @@
 # Repo MCP Server
 
-An MCP (Model Context Protocol) server that exposes your repository to AI clients, allowing them to read, write, and navigate your codebase.
+An MCP (Model Context Protocol) server that exposes your repository to AI clients that support MCP, allowing them to read, write, and navigate your codebase.
 
 ## Features
 
