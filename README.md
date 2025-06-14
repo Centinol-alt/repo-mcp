@@ -12,18 +12,15 @@ An MCP (Model Context Protocol) server that exposes your repository to AI client
 
 ## Setup
 
-### 1. Create the MCP Server
-
-In your repository, create a new directory for the MCP server:
+### 1. Clone this repo:
 
 ```bash
-mkdir mcp-server
-cd mcp-server
+git clone https://github.com/Centinol-alt/repo-mcp
 ```
 
 ### 2. Install and Build
 
-Copy all the provided files into the `mcp-server` directory, then run:
+In this repo's root, run:
 
 ```bash
 chmod +x setup.sh
